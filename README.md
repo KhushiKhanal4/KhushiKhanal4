@@ -24,3 +24,4 @@
 <img width="70px" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000">
 
 
+ <img align="left" alt="Khushi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KhushiKhanal4&show_icons=true&hide_border=true" />
