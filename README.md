@@ -1,7 +1,7 @@
-<h1 align="center">Hi there!👋 I am Khushi Khanal</h1>
+<h1>Hi there!👋 I am Khushi Khanal</h1>
 
 <br>
-<h3 align="center"> 🙇‍♀️ A passionate beginner in Web Development from Nepal</h3>
+<h3> 🙇‍♀️ A passionate beginner in Web Development from Nepal</h3>
 <br>
 <h2>About Me</h2>
 <div>
@@ -12,3 +12,15 @@
 -  💻 #learninginpublic
   
 </div>
+
+### Languages and Tools:
+
+<img width="70px" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"><img width="70px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img width="70px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+<img width="70px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000">
+<img width="70px" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+<img width="70px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+<img width="70px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+<img width="70px" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000">
+
+
