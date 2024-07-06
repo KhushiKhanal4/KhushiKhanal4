@@ -9,7 +9,7 @@
 <div>
   
 - 🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus,TU.<br>
-- 🌱 I’m currently learning JS,Tailwind and React.<br>
+- 🌱  I'm currently learning JavaScript to enhance my ability to create dynamic and interactive web applications.<br>
 -  🏃‍♀️ I'm passionate about creating user-friendly interfaces and exploring how to make websites both visually appealing and functional. <br>
 -  💻 #learninginpublic
   
