@@ -2,9 +2,12 @@
 <h1 align="left">Hello there!👋, I'm Khushi Khanal</h1>
 <h3 align="left">A passionate beginner in Web Development from Nepal</h3>
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+
+<img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif">
 <br>
 <h2>About Me</h2>
+<br>
+
 
 - 🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus,TU.<br>
 - 🌱 I’m currently learning **Tailwind and React**<br>
