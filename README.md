@@ -2,7 +2,7 @@
 <h1 align="left">Hello there!👋, I'm Khushi Khanal</h1>
 <h3 align="left">A passionate beginner in Web Development from Nepal</h3>
 <br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 <br>
 <h2>About Me</h2>
 
