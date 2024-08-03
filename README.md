@@ -3,7 +3,7 @@
 <h3 align="left">A passionate beginner in Web Development from Nepal</h3>
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 <br>
 <h2>About Me</h2>
 <br>
