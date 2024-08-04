@@ -20,12 +20,12 @@
 <br>
 <h3 align="left">My Github Stats:</h3>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushikhanal4&show_icons=true&locale=en" alt="khushikhanal4" /></p>
-
-
-
-<p> <img width=325 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KhushiKhanal4&hide=langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushikhanal4&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushikhanal4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=khushikhanal4&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+ 
+</div>
 
 
 
