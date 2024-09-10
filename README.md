@@ -1,8 +1,9 @@
-<h1 align="left">Hi there,I'm Khushi Khanal</h1>
-<h3 align="left">A passionate beginner in Web Development from Nepal</h3>
+<h1 align="center">Hi there,I'm Khushi Khanal</h1>
+<h3 align="center">A passionate beginner in Web Development from Nepal</h3>
 <br>
-
+<div align="center>
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
+</div>
 <br>
 <h2>About Me</h2>
 <br>
