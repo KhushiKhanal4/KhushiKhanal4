@@ -8,8 +8,6 @@
 <br>
 <h2>About Me</h2>
 <br>
-
-
 - 🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus,TU.<br>
 - 🌱 I’m currently learning **Tailwind and React**<br>
 - 🏃‍♀️ I'm passionate about creating user-friendly interfaces and exploring how to make websites both visually appealing and functional. <br>
