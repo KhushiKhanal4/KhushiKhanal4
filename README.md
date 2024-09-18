@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 </div>
 <br>
-<h2>About Me</h2>
+<h2>About Me :</h2>
 <br>
 - 🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus,TU.<br>
 - 🌱 I’m currently learning **Tailwind and React**<br>
