@@ -22,9 +22,9 @@
   </a>
 </p>
 <br>
-<h2 align="center">Stats:</h2>
+<h2 align="left">Stats:</h2>
 <br>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushikhanal4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  /> 
   <br>
     <br>
