@@ -1,8 +1,8 @@
-<h1 align="center">Hi there! I'm Khushi Khanal</h1>
+<h1 align="left">Hi there! I'm Khushi Khanal</h1>
 
-<h2 align="center">A passionate beginner in Web Development </h2>
+<h2 align="left">A passionate beginner in Web Development </h2>
 <br>
-<div align="center">
+<div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 </div>
 <br>
