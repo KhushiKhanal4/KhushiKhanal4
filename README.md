@@ -21,7 +21,7 @@
 <h2>Languages and Tools 🛠️</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,html,css,js,git,github,figma,tailwind,react,redux,mysql" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,html,css,js,git,github,figma,tailwind,react,redux,mysql,appwrite" alt="Languages and Tools" />
   </a>
 </p>
 
