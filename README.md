@@ -10,7 +10,7 @@
 <br>
 <h2>About Me 📝</h2>
 <ul>
-  <li>🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus, TU.</li>
+  <li>🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus,TU.</li>
   <li>🌱 Currently learning <b>React</b>.</li>
   <li>🏃‍♀️ Passionate about creating user-friendly interfaces and exploring ways to make websites both visually appealing and functional.</li>
   <li>💻 <b>#learninginpublic</b></li>
