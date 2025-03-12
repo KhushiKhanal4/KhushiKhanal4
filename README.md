@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋! I'm Khushi Khanal </h1>
 
-<h2 align="center">A Passionate Beginner in Web Development</h2>
+<h2 align="center">A Web Development and UI/UX Design Enthusiast</h2>
 <br>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <h2>About Me 📝</h2>
 <ul>
   <li>🏫 Studying Computer Science and Information Technology at Bhaktapur Multiple Campus,TU.</li>
-  <li>🌱 Currently learning <b>React</b>.</li>
+  <li>🌱 Currently focusing on <b>UI/UX</b>.</li>
   <li>🏃‍♀️ Passionate about creating user-friendly interfaces and exploring ways to make websites both visually appealing and functional.</li>
   <li>💻 <b>#learninginpublic</b></li>
 </ul>
